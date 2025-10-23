@@ -25,7 +25,7 @@ article.license.default = "使用 CC BY-NC-SA 4.0 协议"
 languageName = "日本语"
 languageDirection = "ltr"
 contentDir = "content/ja"
-title = "AkiHitori's blog"
+title = "AkiHitoriのブログ"
 weight = "3"
 
 [ja.params]
