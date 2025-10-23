@@ -10,8 +10,14 @@ comments: true
 
 ## 语校
 ### 词汇表
+- [第1課]({{< ref "/post/launguage_school/vocabulary/lesson_1" >}})
+- [第2課]({{< ref "/post/launguage_school/vocabulary/lesson_2" >}})
+- [第3課]({{< ref "/post/launguage_school/vocabulary/lesson_3" >}})
+- [第4課]({{< ref "/post/launguage_school/vocabulary/lesson_4" >}})
 - [第6課]({{< ref "/post/launguage_school/vocabulary/lesson_6" >}})
 - [第7課]({{< ref "/post/launguage_school/vocabulary/lesson_7" >}})
+- [第8課]({{< ref "/post/launguage_school/vocabulary/lesson_8" >}})
+- [第9課]({{< ref "/post/launguage_school/vocabulary/lesson_9" >}})
 ---
 - [数字]({{< ref "/post/launguage_school/vocabulary/number" >}})
 - [助数词]({{< ref "/post/launguage_school/vocabulary/counter_word" >}})
