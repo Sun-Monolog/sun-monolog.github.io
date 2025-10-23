@@ -20,3 +20,14 @@ weight = 1
 [zh-cn.params]
 sidebar.subtitle = "还不知道写什么"
 article.license.default = "使用 CC BY-NC-SA 4.0 协议"
+
+[ja]
+languageName = "日本语"
+languageDirection = "ltr"
+contentDir = "content/ja"
+title = "AkiHitori's blog"
+weight = "3"
+
+[ja.params]
+sidebar.subtitle = "まだ何を書くか決まっていない"
+article.license.default = "CC BY-NC-SA 4.0 ライセンスを使用"
