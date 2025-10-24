@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://Sun_Monolog.github.io"
+baseurl = "https://sun-monolog.github.io"
 languageCode = "zh-cn"
 title = "Hugo Theme Stack Starter"
 
