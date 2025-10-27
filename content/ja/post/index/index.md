@@ -25,3 +25,5 @@ comments: true
 - [日付]({{< ref "/post/launguage_school/vocabulary/date" >}})
 - [時間]({{< ref "/post/launguage_school/vocabulary/time" >}})
 ---
+
+- [動詞の活用]({{< ref "/post/launguage_school/grammar/verb_conjugation" >}})
