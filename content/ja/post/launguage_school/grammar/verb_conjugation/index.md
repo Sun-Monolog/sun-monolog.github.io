@@ -44,7 +44,7 @@ date: 2025-10-27 08:04:36+0900
 <th><span title="日语文本"><span lang="ja">条件形</span></span>
 </th></tr>
 <tr>
-<th rowspan="8"><span title="日语文本"><span lang="ja">1グループ</span></span>
+<th rowspan="9"><span title="日语文本"><span lang="ja">1グループ</span></span>
 <p>（<span title="日语文本"><span lang="ja">五段</span></span>）
 </p>
 </th>
@@ -179,9 +179,9 @@ date: 2025-10-27 08:04:36+0900
 </td>
 <td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">あそ</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">び</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:green">ます</span></span></span>
 </td>
-<td rowspan="2" align="center"><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">～</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">ん</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:green">で</span></span></span>
+<td rowspan="3" align="center"><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">～</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">ん</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:green">で</span></span></span>
 </td>
-<td rowspan="2" align="center"><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">～</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">ん</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:green">だ</span></span></span>
+<td rowspan="3" align="center"><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">～</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">ん</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:green">だ</span></span></span>
 </td>
 <td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">あそ</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">べ</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:green">ば</span></span></span>
 </td>
@@ -209,6 +209,27 @@ date: 2025-10-27 08:04:36+0900
 <td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">の</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">め</span></span></span>
 </td>
 <td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">の</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">める</span></span></span>
+</td></tr>
+<tr>
+<th><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r81921555"><ruby><rb>死</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">ぬ</span></span></span>
+<p><small>"死亡"</small>
+</p>
+</th>
+<td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">し</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">な</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:green">ない</span></span></span>
+</td>
+<td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">し</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">な</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:green">せる</span></span></span>
+</td>
+<td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">し</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">な</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:green">れる</span></span></span>
+</td>
+<td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">し</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">の</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:green">う</span></span></span>
+</td>
+<td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">し</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">に</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:green">ます</span></span></span>
+</td>
+<td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">し</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">ね</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:green">ば</span></span></span>
+</td>
+<td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">し</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">ね</span></span></span>
+</td>
+<td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">し</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">ねる</span></span></span>
 </td></tr>
 <tr>
 <th><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r81921555"><ruby><rb>話</rb><rp>（</rp><rt>はな</rt><rp>）</rp></ruby></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">す</span></span></span>
