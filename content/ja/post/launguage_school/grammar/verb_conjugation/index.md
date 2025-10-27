@@ -20,26 +20,26 @@ date: 2025-10-27 08:04:36+0900
 </th>
 <th><span title="日语文本"><span lang="ja">仮定形</span></span>
 </th>
-<th rowspan="2"><span title="日语文本"><span lang="ja">命令形</span></span><span class="noSpaceRef-cite_ref-sup"><sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span class="cite-bracket">[</span>注7<span class="cite-bracket">]</span></a></sup></span>
+<th rowspan="2"><span title="日语文本"><span lang="ja">命令形</span></span>
 </th>
-<th rowspan="2"><span title="日语文本"><span lang="ja">可能形</span></span><span class="noSpaceRef-cite_ref-sup"><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span class="cite-bracket">[</span>注8<span class="cite-bracket">]</span></a></sup></span>
+<th rowspan="2"><span title="日语文本"><span lang="ja">可能形</span></span>
 </th></tr>
 <tr>
 <th><span title="日语文本"><span lang="ja">辞書形</span></span>
 </th>
-<th><span title="日语文本"><span lang="ja">ない形</span></span><span class="noSpaceRef-cite_ref-sup"><sup id="cite_ref-33" class="reference"><a href="#cite_note-33" title=""><span class="cite-bracket">[</span>注9<span class="cite-bracket">]</span></a></sup></span>
+<th><span title="日语文本"><span lang="ja">ない形</span></span>
 </th>
 <th><span title="日语文本"><span lang="ja">使役形</span></span>
 </th>
 <th><span title="日语文本"><span lang="ja">受身形</span></span>
 </th>
-<th><span title="日语文本"><span lang="ja">意向形</span></span><span class="noSpaceRef-cite_ref-sup"><sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span class="cite-bracket">[</span>注10<span class="cite-bracket">]</span></a></sup></span>
+<th><span title="日语文本"><span lang="ja">意向形</span></span>
 </th>
-<th><span title="日语文本"><span lang="ja">ます形</span></span><span class="noSpaceRef-cite_ref-sup"><sup id="cite_ref-37" class="reference"><a href="#cite_note-37" title=""><span class="cite-bracket">[</span>注11<span class="cite-bracket">]</span></a></sup></span>
+<th><span title="日语文本"><span lang="ja">ます形</span></span>
 </th>
-<th><span title="日语文本"><span lang="ja">て形</span></span><span class="noSpaceRef-cite_ref-sup"><sup id="cite_ref-39" class="reference"><a href="#cite_note-39" title=""><span class="cite-bracket">[</span>注12<span class="cite-bracket">]</span></a></sup></span>
+<th><span title="日语文本"><span lang="ja">て形</span></span>
 </th>
-<th><span title="日语文本"><span lang="ja">た形</span></span><span class="noSpaceRef-cite_ref-sup"><sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span class="cite-bracket">[</span>注13<span class="cite-bracket">]</span></a></sup></span>
+<th><span title="日语文本"><span lang="ja">た形</span></span>
 </th>
 <th><span title="日语文本"><span lang="ja">条件形</span></span>
 </th></tr>
@@ -320,7 +320,7 @@ date: 2025-10-27 08:04:36+0900
 </td>
 <td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">恋</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:blue">しろ</span></span></span>
 </td>
-<td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">恋</span>できる</span></span><span class="noSpaceRef-cite_ref-sup"><sup id="cite_ref-45" class="reference"><a href="#cite_note-45"><span class="cite-bracket">[</span>注15<span class="cite-bracket">]</span></a></sup></span>
+<td><span title="日语文本"><span lang="ja"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r83933911"><span class="tmp-color" style="color:red">恋</span>できる</span></span>
 </td></tr>
 <tr>
 <th><span title="日语文本"><span lang="ja">3グループ</span></span>
