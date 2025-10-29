@@ -19,6 +19,9 @@ comments: true
 - [第8課]({{< ref "/post/launguage_school/vocabulary/lesson_8" >}})
 - [第9課]({{< ref "/post/launguage_school/vocabulary/lesson_9" >}})
 - [第11課]({{< ref "/post/launguage_school/vocabulary/lesson_11" >}})
+- [第12課]({{< ref "/post/launguage_school/vocabulary/lesson_12" >}})
+- [第13課]({{< ref "/post/launguage_school/vocabulary/lesson_13" >}})
+- [第14課]({{< ref "/post/launguage_school/vocabulary/lesson_14" >}})
 ---
 - [数字]({{< ref "/post/launguage_school/vocabulary/number" >}})
 - [助数词]({{< ref "/post/launguage_school/vocabulary/counter_word" >}})
