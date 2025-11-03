@@ -30,3 +30,7 @@ comments: true
 ---
 
 - [動詞の活用]({{< ref "/post/launguage_school/grammar/verb_conjugation" >}})
+
+## 杂项
+
+- [一般的な肉類の日中対照表]({{< ref "/post/life/common_meat_ja_zh" >}})
