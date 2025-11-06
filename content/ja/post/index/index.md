@@ -30,6 +30,7 @@ comments: true
 ---
 
 - [動詞の活用]({{< ref "/post/launguage_school/grammar/verb_conjugation" >}})
+- [五十音図]({{< ref "/post/launguage/gana_chart" >}})
 
 ## 杂项
 
