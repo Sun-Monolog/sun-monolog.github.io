@@ -3,7 +3,7 @@ title: "第29課"
 description: "第29課の語彙"
 slug: "lesson 29"
 hidden: true
-date: 2025-11-07 08:04:36+0900
+date: 2025-11-06 08:04:36+0900
 ---
 
 ### 🟦 1. 动词（Verb）
