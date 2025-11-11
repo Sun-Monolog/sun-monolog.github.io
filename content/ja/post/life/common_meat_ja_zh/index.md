@@ -3,7 +3,7 @@ title: "常见肉类中日文对照"
 description: "常见肉类中日文对照"
 slug: "common meat"
 hidden: true
-date: 2025-11-4 08:06:50+0900
+date: 2025-11-04 08:06:50+0900
 ---
 ## 🥩 牛肉（牛肉・ぎゅうにく / Gyūniku）
 
