@@ -374,11 +374,6 @@ date: 2025-10-27 08:04:36+0900
 </td></tr></tbody></table>
 
 
+---
 
-## て型
-
-### 辞書型⇒て型
-
-
-
-### ます型⇒て型
+- [連用形の使い方]({{< ref "/post/launguage_school/grammar/uses_of_renyoukei" >}})
