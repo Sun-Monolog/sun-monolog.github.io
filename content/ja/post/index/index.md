@@ -47,3 +47,5 @@ comments: true
 ## 杂项
 
 - [一般的な肉類の日中対照表]({{< ref "/post/life/common_meat_ja_zh" >}})
+- [一般的な衣類の日中対照表]({{< ref "/post/life/clothing" >}})
+- [一般的な化粧品の日中対照表]({{< ref "/post/life/cosmetics" >}})
