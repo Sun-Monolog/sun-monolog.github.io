@@ -42,6 +42,7 @@ comments: true
 ---
 
 - [動詞の活用]({{< ref "/post/launguage_school/grammar/verb_conjugation" >}})
+- [一般的な上一段動詞]({{< ref "/post/launguage_school/vocabulary/kami-ichidan_verbs" >}})
 - [五十音図]({{< ref "/post/launguage/gana_chart" >}})
 
 ## 杂项
