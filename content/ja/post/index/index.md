@@ -39,8 +39,8 @@ comments: true
 - [助数词]({{< ref "/post/launguage_school/vocabulary/counter_word" >}})
 - [日付]({{< ref "/post/launguage_school/vocabulary/date" >}})
 - [時間]({{< ref "/post/launguage_school/vocabulary/time" >}})
+- [色]({{< ref "/post/launguage_school/vocabulary/color" >}})
 ---
-
 - [動詞の活用]({{< ref "/post/launguage_school/grammar/verb_conjugation" >}})
 - [一般的な上一段動詞]({{< ref "/post/launguage_school/vocabulary/kami-ichidan_verbs" >}})
 - [五十音図]({{< ref "/post/launguage/gana_chart" >}})
