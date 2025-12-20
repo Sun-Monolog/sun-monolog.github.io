@@ -34,6 +34,10 @@ comments: true
 - [第27課]({{< ref "/post/launguage_school/vocabulary/lesson_27" >}})
 - [第28課]({{< ref "/post/launguage_school/vocabulary/lesson_28" >}})
 - [第29課]({{< ref "/post/launguage_school/vocabulary/lesson_29" >}})
+- [第31課]({{< ref "/post/launguage_school/vocabulary/lesson_31" >}})
+- [第32課]({{< ref "/post/launguage_school/vocabulary/lesson_32" >}})
+- [第33課]({{< ref "/post/launguage_school/vocabulary/lesson_33" >}})
+- [第34課]({{< ref "/post/launguage_school/vocabulary/lesson_34" >}})
 ---
 - [数字]({{< ref "/post/launguage_school/vocabulary/number" >}})
 - [助数词]({{< ref "/post/launguage_school/vocabulary/counter_word" >}})
