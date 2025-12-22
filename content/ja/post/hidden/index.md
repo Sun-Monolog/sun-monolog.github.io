@@ -8,7 +8,7 @@ hidden: true
 ---
 
 ## 语校
-### 词汇表
+### 课程表
 - [第31課]({{< ref "/post/launguage_school/grammar/lesson31" >}})
 - [第32課]({{< ref "/post/launguage_school/grammar/lesson32" >}})
 - [第33課]({{< ref "/post/launguage_school/grammar/lesson33" >}})
