@@ -9,8 +9,10 @@ hidden: true
 
 ## 语校
 ### 词汇表
-- [第1課]({{< ref "/post/launguage_school/vocabulary/lesson_1" >}})
+- [第31課]({{< ref "/post/launguage_school/grammar/lesson31" >}})
+- [第32課]({{< ref "/post/launguage_school/grammar/lesson32" >}})
+- [第33課]({{< ref "/post/launguage_school/grammar/lesson33" >}})
+- [第34課]({{< ref "/post/launguage_school/grammar/lesson34" >}})
 
 ## 杂项
 
-- [一般的な化粧品の日中対照表]({{< ref "/post/life/cosmetics" >}})

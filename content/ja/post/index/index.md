@@ -46,6 +46,7 @@ comments: true
 - [色]({{< ref "/post/launguage_school/vocabulary/color" >}})
 ---
 - [動詞の活用]({{< ref "/post/launguage_school/grammar/verb_conjugation" >}})
+- [自動詞と他動詞]({{< ref "/post/launguage_school/vocabulary/tran_and_intrans_verbs" >}})
 - [一般的な上一段動詞]({{< ref "/post/launguage_school/vocabulary/kami-ichidan_verbs" >}})
 - [五十音図]({{< ref "/post/launguage/gana_chart" >}})
 
