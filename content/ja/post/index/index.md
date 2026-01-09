@@ -39,6 +39,7 @@ comments: true
 - [第33課]({{< ref "/post/launguage_school/vocabulary/lesson_33" >}})
 - [第34課]({{< ref "/post/launguage_school/vocabulary/lesson_34" >}})
 - [第36課]({{< ref "/post/launguage_school/vocabulary/lesson_36" >}})
+- [第37課]({{< ref "/post/launguage_school/vocabulary/lesson_37" >}})
 ---
 - [数字]({{< ref "/post/launguage_school/vocabulary/number" >}})
 - [助数词]({{< ref "/post/launguage_school/vocabulary/counter_word" >}})
